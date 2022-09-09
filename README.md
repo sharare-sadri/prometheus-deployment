@@ -1,0 +1,2 @@
+# prometheus-deployment
+deploy Prometheus
